@@ -3,6 +3,6 @@
     "compile-styles": "node-sass --output-style expanded --source-map true --source-map-contents true --precision 6 public/style.scss dist/style.css"
   },
   "dependencies": {
-    "node-sass": "4^.0.0"
+    "node-sass": "4.0.0"
   }
 }
